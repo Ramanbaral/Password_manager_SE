@@ -9,9 +9,6 @@ BitCrypt Password Manager is a secure and lightweight command-line password mana
 - **Password Generation**: Generate strong and unique passwords effortlessly.
 - **Efficient Searching**: Quickly find and retrieve passwords when you need them.
 
-<img width="400" height="300" alt="bitwarden-1" src="https://github.com/FakePickle/Bitwarden_from_Wish/assets/122410275/ea305564-15ae-4ddf-85da-5a2a6030f095">
-<img width="400" height="300" alt="bitwarden-2" src="https://github.com/FakePickle/Bitwarden_from_Wish/assets/122410275/f446d54f-ec28-464c-b810-a8caa338ba3d">
-
 ## Prerequisites
 
 - Python 3.x
@@ -27,7 +24,7 @@ BitCrypt Password Manager is a secure and lightweight command-line password mana
 1. Clone the repository:
 
     ```bash
-    git clone 
+    git clone https://github.com/Ramanbaral/Password_manager_SE.git
     ```
 
 2. Change the directory to the main source:
