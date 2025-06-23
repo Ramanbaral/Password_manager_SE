@@ -1,6 +1,6 @@
-# BiCrypt Password Manager
+# BitCrypt Password Manager
 
-BiCrypt Password Manager is a secure and lightweight command-line password manager written in Python. It allows users to securely store, generate and manage their passwords.
+BitCrypt Password Manager is a secure and lightweight command-line password manager written in Python. It allows users to securely store, generate and manage their passwords.
 
 ## Features
 
@@ -27,7 +27,7 @@ BiCrypt Password Manager is a secure and lightweight command-line password manag
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Vikranth3140/BitCrypt.git
+    git clone 
     ```
 
 2. Change the directory to the main source:
@@ -59,7 +59,6 @@ Bitwarden
     ├── src
     |    ├── main.py
     |    ├── login.py
-    |    ├── file_transfer.py
     |    ├── password.py
     ├── data 
     |    ├── password.json
@@ -71,7 +70,6 @@ Bitwarden
 - **`src`**: Contains the main source code files.
     - `main.py`: The main script to run the Bitwarden Password Manager.
     - `login.py`: Handles user authentication and registration.
-    - `file_transfer.py`: Provides functionality for transferring files between the server and client.
     - `password.py`: Manages password-related functionality, including password generation.
 
 - **`data`**: Stores data files used by the application.
@@ -83,19 +81,6 @@ Bitwarden
 - **`LICENSE.md`**: The license file for the project.
 
 - **`README.md`**: The main README file with information about the project.
-
-
-## Contributing
-
-Welcome to contribute to Bitwarden Password Manager! Feel free to fork the repository and suggest any improvements. To contribute, follow these steps:
-
-1.  Fork the repository.
-2.  Create a new branch for your feature or bug fix.
-3.  Make your changes and commit them.
-4.  Push the changes to your fork.
-5.  Submit a pull request.
-
-Thank you for your contributions!
 
 ## License
 
